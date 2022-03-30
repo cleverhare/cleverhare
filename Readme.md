@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning on **[Animated Landing Page](https://github.com/cleverhare)**
+- 🔭 I’m currently working on **[Animated Landing Page](https://github.com/cleverhare)**
 
 - 🌱 I’m currently learning **React JS**
 
