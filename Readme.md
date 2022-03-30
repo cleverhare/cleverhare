@@ -1,4 +1,4 @@
-<a align="center" href="#" align="center"><img width="350px" height="auto"  src="./Mygithub.png" /></a>
+<a align="center" href="#" align="center"><img width="95%" height="auto"  src="./Mygithub.png" /></a>
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyajit</h1>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **soumyajitbrah@gmail.com**
 
-- ⚡ Fun fact **I love to play cricket so I love make cricket related projects**
+- ⚡ Fun fact **I love to play cricket so I love to make cricket related projects**
 
 ## 🚀 Languages and Tools:
 
