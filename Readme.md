@@ -1,4 +1,4 @@
-<a align="center" href="#" align="center"><img width="100%" height="auto"  src="./Mygithub.png" /></a>
+<a align="center" href="#" align="center"><img width="350px" height="auto" align="center"  src="https://raw.githubusercontent.com/AmanxUpadhyay/AmanxUpadhyay/main/asset/hacker.gif" /></a>
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyajit</h1>
