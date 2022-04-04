@@ -74,8 +74,6 @@
 
 ## Connect with me:
 <p align="left">
-
-<<<<<<< HEAD
 <a target="_blank" href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target="_blank" href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -83,7 +81,7 @@
 <a href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 <a href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
->>>>>>> e6801a5421df4e317a4886f5a513aa864d1aa81c
+
 
 </p>
 
