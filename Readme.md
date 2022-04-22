@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Animated Landing Page](https://github.com/cleverhare)**
+- 🔭 I’m currently working on **[stalker project](https://github.com/cleverhare/stalker)**
 
 - 🌱 I’m currently learning **React JS**
 
