@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[stalker project](https://github.com/cleverhare/stalker)**
+- 🔭 I’m currently working on **[stacker project](https://github.com/cleverhare/stalker)**
 
 - 🌱 I’m currently learning **React JS**
 
