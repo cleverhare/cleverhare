@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **[Stock-Note](https://github.com/cleverhare/stock-note)**
 
+- 👨‍💻 I have Recently Finished **[Updated Of My Old Projects](https://github.com/cleverhare)**
+
 - 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Freelance Project**
