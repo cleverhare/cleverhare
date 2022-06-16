@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[Stock-Note](https://github.com/cleverhare/stock-note)**
 
-- 👨‍💻 I have Recently Finished **[Updated Of My Old Projects](https://github.com/cleverhare)**
+- 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
 
 - 🌱 I’m currently learning **React JS**
 
