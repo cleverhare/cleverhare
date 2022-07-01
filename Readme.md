@@ -11,6 +11,8 @@
 
 - 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
 
+- 👨‍💻 Next I will  Work On **[Currency-converter-Using-JavaScript](https://github.com/cleverhare/currency-converter)**
+
 - 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Freelance Project**
