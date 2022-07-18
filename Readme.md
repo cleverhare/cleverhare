@@ -1,13 +1,19 @@
 <a align="right" href="#" align="right" class="gif"><img align="right" width="50%" height="auto"  src="./Mygithub.gif" /></a>
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Soumyajit</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px"> I'm Soumyajit</h1>
 <h3 align="center">I'm a self taught passionate Full Stack Developer and freelancer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
+<<<<<<< HEAD
 - 🔭 I’m currently working on **[Stocker Project](https://github.com/cleverhare)**
+=======
+- 🔭 I’m currently working on **[Stock-Note](https://github.com/cleverhare/stock-note)**
+
+- 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
+>>>>>>> e9df3468e40fac932f7667e34131e0a7fe6d1c8d
 
 - 🌱 I’m currently learning **React JS**
 
@@ -29,7 +35,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/3498DB/jquery.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>    
+    <a href="https://tailwindcss.com" target="_blank"> <img width="48px" marginBottom="3px" height"48px" src="https://symbols.getvecta.com/stencil_97/3_tailwind-css-icon.5009c3dbea.svg"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> -->
@@ -42,7 +49,10 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="express" width="40" height="40"/> </a>
+        <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/50/3498DB/visual-studio-code-insides.png"/> </a>
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/windows-11.png"/></a>
+    <a href="https://microsoft.com" target="_blank"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
+     <a href="https://microsoft.com" target="_blank"><img src="https://img.icons8.com/color/48/undefined/mac-logo.png"/></a>
 </p>
 
 
@@ -76,6 +86,7 @@
 <p align="left">
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a target="_blank" href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target="_blank" href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -84,6 +95,12 @@
 <a href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 <a href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 >>>>>>> e6801a5421df4e317a4886f5a513aa864d1aa81c
+=======
+<a target="_blank" href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
+<a target="_blank" href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a target="_blank" href = "https://opensea.io/sphere_ink"><img width="5%" height="5%" src="https://seeklogo.com/images/O/opensea-logo-7DE9D85D62-seeklogo.com.png"/></a>
+>>>>>>> e9df3468e40fac932f7667e34131e0a7fe6d1c8d
 
 </p>
 
