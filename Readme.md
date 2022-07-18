@@ -73,7 +73,7 @@
   <a href="https://github.com/cleverhare/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleverhare&langs_count=8&count_private=true&layout=compact&theme=github&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-
+<img src="/analytics.svg"/>
 
 
 <br/>
