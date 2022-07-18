@@ -7,13 +7,11 @@
 
 ## 🙋‍♂️ About Me
 
-<<<<<<< HEAD
 - 🔭 I’m currently working on **[Stocker Project](https://github.com/cleverhare)**
-=======
+
 - 🔭 I’m currently working on **[Stock-Note](https://github.com/cleverhare/stock-note)**
 
 - 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
->>>>>>> e9df3468e40fac932f7667e34131e0a7fe6d1c8d
 
 - 👨‍💻 Next I will  Work On **[Currency-converter-Using-JavaScript](https://github.com/cleverhare/currency-converter)**
 
@@ -72,8 +70,7 @@
     <a href="https://github.com/cleverhare/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cleverhare&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/cleverhare/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleverhare&langs_count=8&count_private=true&layout=compact&theme=github&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  
-<img src="/analytics.svg"/>
+
 
 
 <br/>
@@ -86,23 +83,10 @@
 
 ## Connect with me:
 <p align="left">
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<a target="_blank" href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target="_blank" href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
-<a target="_blank" href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-=======
-<a href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
-<a href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
->>>>>>> e6801a5421df4e317a4886f5a513aa864d1aa81c
-=======
 <a target="_blank" href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a target="_blank" href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
 <a target="_blank" href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a target="_blank" href = "https://opensea.io/sphere_ink"><img width="5%" height="5%" src="https://seeklogo.com/images/O/opensea-logo-7DE9D85D62-seeklogo.com.png"/></a>
->>>>>>> e9df3468e40fac932f7667e34131e0a7fe6d1c8d
 
 </p>
 
@@ -111,3 +95,5 @@
     <img src="https://komarev.com/ghpvc/?username=cleverhare">
 </a>
 <a href="https://github.com/cleverhare?tab=followers"><img src="https://img.shields.io/github/followers/cleverhare?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+<img src="/analytics.svg"/>
