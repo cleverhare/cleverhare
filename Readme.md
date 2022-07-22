@@ -6,9 +6,6 @@
 
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Stocker Project](https://github.com/cleverhare)**
-
 - 🔭 I’m currently working on **[Stock-Note](https://github.com/cleverhare/stock-note)**
 
 - 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
