@@ -12,7 +12,7 @@
 
 - 👨‍💻 Next I will  Work On **[Currency-converter-Using-JavaScript](https://github.com/cleverhare/currency-converter)**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **[React JS](https://reactjs.org/)**
 
 - 👯 I’m looking to collaborate on **Freelance Project**
 
