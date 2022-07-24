@@ -78,15 +78,6 @@
 <br/>
 <br/>
 
-## Connect with me:
-<p align="left">
-<a target="_blank" href = "https://www.linkedin.com/in/soumyajit-brahma-b665b4231/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a target="_blank" href = "https://fiverr.com/cleverhare"><img src="https://img.icons8.com/color/48/000000/fiverr.png"/></a>
-<a target="_blank" href = "https://www.instagram.com/scaresteeler/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a target="_blank" href = "https://opensea.io/sphere_ink"><img width="5%" height="5%" src="https://seeklogo.com/images/O/opensea-logo-7DE9D85D62-seeklogo.com.png"/></a>
-
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=cleverhare">
