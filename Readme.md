@@ -74,9 +74,6 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/cleverhare/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cleverhare&bg_color=0D1117&color=5BCDEC&line=2ECC71&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
