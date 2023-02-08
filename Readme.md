@@ -10,7 +10,7 @@
 
 - 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
 
-- 👨‍💻 Next I will  Work On **[Currency-converter-Using-JavaScript](https://github.com/cleverhare/currency-converter)**
+- 👨‍💻 Next I will  Work On **[Making a Brand New Blog Website, Be Tuned for that](https://github.com/cleverhare)**
 
 - 🌱 I’m currently learning **[React JS](https://reactjs.org/)**
 
