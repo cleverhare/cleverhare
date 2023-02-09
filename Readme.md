@@ -6,7 +6,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Stock-Note](https://github.com/cleverhare/stock-note)**
+- 🔭 I’m currently working on **[Some Great Projects](https://github.com/cleverhare/)**
 
 - 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
 
