@@ -8,7 +8,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on **[Some Great Projects](https://github.com/cleverhare/)**
 
-- 👨‍💻 I have Recently Finished **[Updates Of My Old Projects](https://github.com/cleverhare)**
+- 👨‍💻 I have Recently Finished **[Wren the Programming Error Solver](https://github.com/cleverhare/Wren-Git-Init-2023)**
 
 - 👨‍💻 Next I will  Work On **[Making a Brand New Blog Website, Be Tuned for that](https://github.com/cleverhare)**
 
