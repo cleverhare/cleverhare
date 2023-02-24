@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **[React JS](https://reactjs.org/)**
 
-- 👯 I’m looking to collaborate on **Freelance Project**
+- 👯 I’m looking to collaborate on **[Freelance Project](https://fiverr.com/cleverhare)**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/cleverhare)**
 
