@@ -53,8 +53,7 @@
         <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/50/3498DB/visual-studio-code-insides.png"/> </a>
     <a href="https://microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/windows-11.png"/></a>
     <a href="https://linux.org" target="_blank"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
-    <a href="https://kali.org" target="_blank"><img src="![image](https://user-images.githubusercontent.com/102357739/224612871-ce3d40d8-1978-41ae-b00d-0d74f9d570d2.png)
-"></a>
+    <a href="https://kali.org" target="_blank"><img  width="45" height="45" src="https://img.icons8.com/plasticine/256/kali-linux.png"></a>
      <a href="https://apple.com" target="_blank"><img src="https://img.icons8.com/color/48/undefined/mac-logo.png"/></a>
 </p>
 
