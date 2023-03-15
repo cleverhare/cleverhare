@@ -21,7 +21,7 @@
 - 📫 How to reach me **soumyajitbrah@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket so I love to make cricket related projects, so if you have any cricket related project its your day. **
-- 💻 **I am an AWS certified Cloud Security practitioner
+- 💻 **I am an AWS certified Cloud Security practitioner**
 
 ## 🚀 Languages and Tools:
 
