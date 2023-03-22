@@ -49,6 +49,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png" alt="express" width="40" height="40"/> </a>
+        <a href="https://expressjs.com" target="_blank"> <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" alt="express" width="60" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="express" width="40" height="40"/> </a>
         <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/50/3498DB/visual-studio-code-insides.png"/> </a>
     <a href="https://microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/windows-11.png"/></a>
