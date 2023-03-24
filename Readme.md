@@ -46,12 +46,13 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/2ECC71/github.png"/> </a> 
     <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" /> </a>
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-shadow-tal-revivo.png" alt="express" width="40" height="40"/> </a>
         <a href="https://expressjs.com" target="_blank"> <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" alt="express" width="60" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="express" width="40" height="40"/> </a>
         <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/color/50/3498DB/visual-studio-code-insides.png"/> </a>
+    <a href="https://code.visualstudio.com" target="_blank"> <img src="https://user-images.githubusercontent.com/102357739/227405420-8439a15e-a7c8-4a2e-84b7-62bab7422e73.png" width="45" height="45"/> </a>
     <a href="https://microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/windows-11.png"/></a>
     <a href="https://linux.org" target="_blank"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
     <a href="https://kali.org" target="_blank"><img  width="45" height="45" src="https://img.icons8.com/plasticine/256/kali-linux.png"></a>
