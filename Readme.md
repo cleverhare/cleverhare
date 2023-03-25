@@ -12,7 +12,7 @@
 
 - 👨‍💻 Next I will  Work On **[Making a Brand New Blog Website, Be Tuned for that](https://github.com/cleverhare)**
 
-- 🌱 I’m currently learning **[React JS](https://reactjs.org/)**
+- 🌱 I’m currently learning **[React JS](https://reactjs.dev/)**
 
 - 👯 I’m looking to collaborate on **[Freelance Projects](https://fiverr.com/cleverhare)**
 
