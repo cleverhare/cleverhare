@@ -5,7 +5,7 @@
 <h3 align="center">I'm a self taught passionate Full Stack Developer and freelancer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me 🙋‍
 - 🔭 I’m currently Looking to **[Contribute On FOSS](https://github.com/cleverhare/)**
 
 - 👨‍💻 I have Recently Finished **[Wren the Programming Error Solver](https://github.com/cleverhare/Wren-Git-Init-2023)**
