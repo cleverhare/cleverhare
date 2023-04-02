@@ -6,7 +6,7 @@
 
 
 ## About Me 🙋‍
-- 🔭 I’m currently Looking to **[Contribute On FOSS](https://github.com/cleverhare/)**
+- 🔭 I’m currently Looking to **[Contribute On Gsoc'23](https://github.com/cleverhare/)**
 
 - 👨‍💻 I have Recently Finished **[Wren the Programming Error Solver](https://github.com/cleverhare/Wren-Git-Init-2023)**
 
