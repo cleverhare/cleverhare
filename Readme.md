@@ -10,7 +10,7 @@
 
 - 👨‍💻 I have Recently Finished **[Wren the Programming Error Solver](https://github.com/cleverhare/Wren-Git-Init-2023)**
 
-- 👨‍💻 Next I will  Work On **[Making a Brand New Blog Website, Be Tuned for that](https://github.com/cleverhare)**
+- 👨‍💻 Next I will  Work On **[Contributing Orgs coming to Gsoc'23 or Other Orgs](https://github.com/cleverhare)**
 
 - 🌱 I’m currently learning **[React JS](https://reactjs.dev/)**
 
