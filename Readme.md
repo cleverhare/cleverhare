@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/cleverhare)**
 
-- 📫 How to reach me **soumyajitbrah@gmail.com**
+- 📫 How to reach me **soumyajit@cleverhare.com**
 
 - ⚡ Fun fact **I love to play cricket so I love to make cricket related projects, so if you have any cricket related project its your day**
 - 💻 Special About Me **I am an AWS certified Cloud Security practitioner**
