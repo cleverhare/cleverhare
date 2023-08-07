@@ -2,17 +2,17 @@
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
 <h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px"> I'm Soumyajit</h1>
-<h3 align="center">I'm a self taught passionate Full Stack Developer and freelancer from India.</h3>
+<h3 align="center">I'm a self-taught passionate Full Stack Developer and freelancer from India.</h3>
 
 
 ## About Me 🙋‍
-- 🔭 I’m currently Looking to **[Contribute On Gsoc'23](https://github.com/cleverhare/)**
+- 🔭 I’m currently Looking to **[Help you  On Your Projects](https://github.com/cleverhare/)**
 
 - 👨‍💻 I have Recently Finished **[Wren the Programming Error Solver](https://github.com/cleverhare/Wren-Git-Init-2023)**
 
-- 👨‍💻 Next I will  Work On **[Contributing Orgs coming to Gsoc'23 or Other Orgs](https://github.com/cleverhare)**
+- 👨‍💻 Next I will  Work On **[Some new Projects](https://github.com/cleverhare)**
 
-- 🌱 I’m currently learning **[React JS](https://reactjs.dev/)**
+- 🌱 I’m currently learning **[Generative AI ](hhttps://github.com/cleverhare)**
 
 - 👯 I’m looking to collaborate on **[Freelance Projects](https://fiverr.com/cleverhare)**
 
