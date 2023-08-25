@@ -56,7 +56,7 @@
     <a href="https://microsoft.com" target="_blank"><img src="https://img.icons8.com/fluency/48/undefined/windows-11.png"/></a>
     <a href="https://linux.org" target="_blank"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
     <a href="https://kali.org" target="_blank"><img  width="45" height="45" src="https://img.icons8.com/plasticine/256/kali-linux.png"></a>
-     <a href="https://apple.com" target="_blank"><img src="https://img.icons8.com/color/48/undefined/mac-logo.png"/></a>
+     <a href="https://apple.com" target="_blank"><img width="40" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/391px-Apple_logo_black.svg.png"/></a>
 </p>
 
 
