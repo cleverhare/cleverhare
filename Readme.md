@@ -28,6 +28,8 @@
 <p align="left"> 
     <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img width="48px" height="48px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img width="48px" height="48px" src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/26363/vite-2.jpg"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/3498DB/jquery.png"/> </a> 
