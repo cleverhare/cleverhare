@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **soumyajit@cleverhare.com**
 
-- ⚡ Fun fact **I love to play cricket so I love to make cricket-related projects, so if you have any cricket related projects its your day**
+- ⚡ Fun fact **I love to play cricket so I love to make cricket-related projects, so if you have any cricket-related projects it's your day**
 - 💻 Special About Me **I am an AWS-certified Cloud Security practitioner**
 
 ## 🚀 Languages and Tools:
@@ -70,7 +70,7 @@
     </a>
 </p>
 
-## 📊 My Github Statisticks
+## 📊 My Github Statistics
 
   <br/>
     <a href="https://github.com/cleverhare/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cleverhare&show_icons=true&count_private=true&theme=github&hide_border=true&bg_color=0D1117" /></a>
