@@ -2,11 +2,11 @@
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
 <h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px"> I'm Soumyajit</h1>
-<h3 align="center">I'm a self-taught passionate Full Stack Developer and freelancer from India.</h3>
+<h3 align="center">I'm a self-taught, code-wielding enthusiast, crafting digital wonders from India!</h3>
 
 
 ## About Me 🙋‍
-- 🔭 I’m currently Looking to **[Help you  On Your Projects](https://github.com/cleverhare/)**
+- 🔭 I’m currently Looking to **[Help you  On Your Projects](https://www.linkedin.com/soumyajit-brahma)**
 
 - 👨‍💻 I have Recently Finished **[Nike Landing Page](https://github.com/cleverhare/Nike_Landing_Page)**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **soumyajit@cleverhare.com**
 
-- ⚡ Fun fact **I love to play cricket so I love to make cricket-related projects, so if you have any cricket-related projects it's your day**
+- ⚡ Fun fact **I love to make things from scratch, so if you're a startup it's your day!!**
 - 💻 Special About Me **I am an AWS-certified Cloud Security practitioner**
 
 ## 🚀 Languages and Tools:
