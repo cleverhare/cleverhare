@@ -6,7 +6,7 @@
 
 
 ## About Me 🙋‍
-- 🔭 I’m currently Looking to **[Help you  On Your Projects](https://www.linkedin.com/soumyajit-brahma)**
+- 🔭 I’m currently looking to **[Craft Stunning Website For Your Idea](https://www.linkedin.com/soumyajit-brahma)**
 
 - 👨‍💻 I have Recently Finished **[Nike Landing Page](https://github.com/cleverhare/Nike_Landing_Page)**
 
