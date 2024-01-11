@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **[Generative AI ](hhttps://github.com/cleverhare)**
 
-- 👯 I’m looking to collaborate on **[Freelance Projects](https://cleverhare.com)**
+- 👯 I’m looking to collaborate on **[Your Business, YouTube, Your Social Media, Sales funnel creation](https://cleverhare.com)**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/cleverhare)**
 
