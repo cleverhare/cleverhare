@@ -6,23 +6,21 @@
 
 
 ## About Me 🙋‍
-- 🔭 I’m currently looking to **[Craft Stunning Website For Your Idea](https://www.linkedin.com/soumyajit-brahma)**
+- 🔭 I will help you to Automate your **[repetitive tasks and lead gen](https://www.linkedin.com/soumyajit-brahma)**
 
-- 👨‍💻 I have Recently Finished **[Nike Landing Page](https://github.com/cleverhare/Nike_Landing_Page)**
+- 👨‍💻 I have worked with **[20+ Companies](https://github.com/SJBrahma2008/)**
 
-- 👨‍💻 Next I will  Work On **[Some new Projects](https://github.com/cleverhare)**
+- 👨‍💻 Next I will  Work On **[Some cool products](https://github.com/SJBrahma2008)**
 
-- 🌱 I’m currently learning **[Generative AI ](hhttps://github.com/cleverhare)**
+- 🌱 I’m currently learning **[Generative AI ](hhttps://github.com/SJBrahma2008)**
 
-- 👯 I’m looking to collaborate on **[Your Business, YouTube, Your Social Media, Sales funnel creation](https://cleverhare.com)**
+- 👯 I’m looking to collaborate on **Your Business, YouTube, Your Social Media, Appointment Scheduling & Lead Generation**
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/cleverhare)**
-
-- 📫 How to reach me **soumyajit@cleverhare.com**
+- 📫 How to reach me **soumyajitbrah@gmail.com**
 
 - ⚡ Fun fact **I love to make things from scratch, so if you're a startup it's your day!!**
 - 💻 Special About Me **I am an AWS-certified Cloud Security practitioner**
-- 👨‍💻 Don't Forget To Checkout My **[Website](https://cleverhare.com)**
+
 
 ## 🚀 Languages and Tools:
 
