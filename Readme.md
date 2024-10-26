@@ -1,7 +1,7 @@
 <a align="right" href="#" align="right" class="gif"><img align="right" width="60%" height="auto"  src="./Mygithub.gif" /></a>
 <!-- <a align="center" href="#" align="center"><img width="100%" height="auto"  src="https://i.imgur.com/iXuL1HG.png" /></a> -->
 
-<h1 align="center">Hi <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px"> I'm Soumyajit</h1>
+<h1 align="center">Hey <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px"> I'm Soumyajit</h1>
 <h3 align="left">I'm a self-taught Developer & AI Automation Engineer from India</h3>
 
 
