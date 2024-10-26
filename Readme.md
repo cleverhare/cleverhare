@@ -12,7 +12,7 @@
 
 - 👨‍💻 Next I will  Work On **[Some cool Micro products](https://github.com/SJBrahma2008)**
 
-- 🌱 I’m currently learning **[Generative AI ](hhttps://github.com/SJBrahma2008)**
+- 🌱 I’m currently learning **[AI Automation](hhttps://github.com/SJBrahma2008)**
 
 - 👯 I’m looking to collaborate on **Your Business, YouTube, Your Social Media, Appointment Scheduling & Lead Generation**
 
