@@ -82,12 +82,3 @@
 <br/>
 <br/>
 <br/>
-
-## ❤ Profile Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SJBrahma2008">
-</a>
-<a href="https://github.com/SJBrahma2008?tab=followers"><img src="https://img.shields.io/github/followers/SJBrahma2008?label=Followers&style=social" alt="GitHub Badge"></a>
-  
-![Snake animation](https://github.com/SJBrahma2008/SJBrahma2008/blob/output/github-contribution-grid-snake.svg)
-
