@@ -6,7 +6,7 @@
 
 
 ## About Me 🙋‍
-- 🔭 I will help you to Automate your **[repetitive tasks and lead gen](https://www.linkedin.com/soumyajit-brahma)**
+- 🔭 I will help you to Automate your **[repetitive tasks and lead gen](mailto:soumyajitbrah@gmail.com)**
 
 - 👨‍💻 I have worked with **[20+ Companies](https://github.com/SJBrahma2008/)**
 
