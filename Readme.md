@@ -8,7 +8,7 @@
 ## About Me 🙋‍
 - 🔭 I will help you to Automate your **[repetitive tasks and lead gen](mailto:soumyajitbrah@gmail.com)**
 
-- 👨‍💻 I have worked with **[20+ Companies](https://github.com/SJBrahma2008/)**
+- 👨‍💻 I have worked with **[20+ Companies](https://docs.google.com/spreadsheets/d/1mYGQ8ezUxs1nog50tFmCFF24MdfLKoU6K4WATkC-AcQ/edit?usp=sharing)**
 
 - 👨‍💻 Next I will  Work On **[Some cool Micro products](https://github.com/SJBrahma2008)**
 
